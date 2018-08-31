@@ -31,11 +31,11 @@ clean:
 	rm -f solve.so solve_bs solve_piwi_bs solve_piwi libnfc_crypto1_crack
 
 get_craptev1:
-	wget http://crapto1.netgarage.org/craptev1-v1.1.tar.xz
+	wget https://ucdd60992e1585e21b0472c258e5.dl.dropboxusercontent.com/cd/0/get/APXsQXev89JmkuTccw7HpgTn0Fd_6lJYgsqfT4OOB92mdADm67aecLV-fwDct2bPwwHwbauyFZrQnqwhdGmBvSaLj8vpW4SBh91Irc1KaxG8jjiUOngw-hBEetOQ8Xxouc9OClKO-tnPVd8vvO5enFQD5IwzP4cd4PBJlaEHabJPXVfwyEUzfj6GB1s3YgIHfJQ/file?_download_id=3552358793112151421847892703509197120013386877683377850662551804106&_notify_domain=www.dropbox.com&dl=1
 	tar Jxvf craptev1-v1.1.tar.xz
 
 get_crapto1:
-	wget http://crapto1.netgarage.org/crapto1-v3.3.tar.xz
+	wget https://ucf98cfb4cc586001f3b04140d75.dl.dropboxusercontent.com/cd/0/get/APV2dO0hIshwShij2usAynmuuz8zod8lEMl3b2KNLlmEC4RQHbT2BxZ5z9ooJ-I9JrhZX9XdJNYBCWAjeYQiP0pP2JfFa2OHva1nvkPWmDwtuKv0fPILdeWi--FHKPT2DbJvPHXc-F2xKnwD3WNcvRB0CQmrTfI7Ef0s6rUrbaREtFUXmSJA6pVVKkN_xrZxDW0/file?_download_id=4617751596485617592586780604915773144236120782114462585954007834&_notify_domain=www.dropbox.com&dl=1
 	mkdir crapto1-v3.3
 	tar Jxvf crapto1-v3.3.tar.xz -C crapto1-v3.3
 
